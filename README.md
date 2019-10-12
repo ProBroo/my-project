@@ -1,3 +1,3 @@
-# my-project
-for fun
-bla bla
+# Project for recommendation system
+
+
